@@ -2,7 +2,6 @@
 # input layer: <NODES> nodes, one for each bit (0 = false and +1 = true)
 # output layer: 1 node for result (0 = false and +1 = true)
 # Use sigmoid activation function, gradient descent optimizer and mean squared error loss function
-# Last update: 28.05.2019
 
 import tensorflow as tf
 import numpy as np
